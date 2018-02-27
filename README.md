@@ -6,6 +6,8 @@ Peking University
 
 参考笔记：
 
+（清华大学操作系统课程：https://github.com/chyyuu/os_course_info）
+
 - [（一）](http://blog.csdn.net/github_36487770/article/details/54924928)绪论
 - [（二）](http://blog.csdn.net/github_36487770/article/details/54925696)操作系统的启动、中断、异常、系统调用
 - [（三）（四）](http://blog.csdn.net/github_36487770/article/details/54933265)内存层次、地址空间、连续/非连续内存分配
